@@ -9,6 +9,7 @@ namespace Git
             int num = 123;
             Console.WriteLine(num);
             Console.WriteLine("hello, world!");
+            Console.WriteLine("welcome!");
             Console.ReadKey();
         }
     }
